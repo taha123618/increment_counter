@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #abe795;
+}
+
+.counter_container{
+    margin-top: 50px;
+    display: grid;
+    place-items: center;
+}
